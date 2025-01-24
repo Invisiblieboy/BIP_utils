@@ -1,0 +1,11 @@
+{
+        "name": "BIP NFT",
+        "description": "You can swap this NFT to 1000 BIPCoin",
+        "image": "https://i.pcmag.com/imagery/authors/05KCrAjPLMgB30jl5fmp5eF.png",
+        "attributes": [
+            {
+                "trait_type": "Value",
+                "value": "1000"
+            }
+        ]
+    }
